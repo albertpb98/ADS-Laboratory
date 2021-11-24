@@ -1,0 +1,10 @@
+vhdl xil_defaultlib  \
+"../../../../lab3.gen/sources_1/bd/lab3/ip/lab3_axi_gpio_0_0/sim/lab3_axi_gpio_0_0.vhd" \
+"../../../../lab3.gen/sources_1/bd/lab3/ip/lab3_rst_ps7_0_111M_0/sim/lab3_rst_ps7_0_111M_0.vhd" \
+"../../../../lab3.gen/sources_1/bd/lab3/VGA_controller_v2.vhd" \
+"../../../../lab3.gen/sources_1/bd/lab3/ipshared/c5a7/hdl/VGA_controller_v2_v1_0_S00_AXI.vhd" \
+"../../../../lab3.gen/sources_1/bd/lab3/ipshared/c5a7/hdl/VGA_controller_v2_v1_0.vhd" \
+"../../../../lab3.gen/sources_1/bd/lab3/ip/lab3_VGA_controller_v2_0_0/sim/lab3_VGA_controller_v2_0_0.vhd" \
+"../../../../lab3.gen/sources_1/bd/lab3/sim/lab3.vhd" \
+
+nosort

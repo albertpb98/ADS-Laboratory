@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../VGA_controller_v2.vhd" \
+"../../../../edit_VGA_controller_v2_v1_0.srcs/sim_1/new/VGA_controller_v2_tb.vhd" \
+
+# Do not sort compile order
+nosort

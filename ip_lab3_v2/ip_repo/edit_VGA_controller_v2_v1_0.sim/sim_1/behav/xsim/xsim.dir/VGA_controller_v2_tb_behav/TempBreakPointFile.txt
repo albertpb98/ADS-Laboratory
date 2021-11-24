@@ -1,0 +1,3 @@
+Breakpoint File Version 1.0
+96,true,"C:/Users/albert.poblador/ip_lab3_v2/VGA_controller_v2.vhd"
+101,true,"C:/Users/albert.poblador/ip_lab3_v2/VGA_controller_v2.vhd"

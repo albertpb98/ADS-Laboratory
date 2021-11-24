@@ -1,0 +1,8 @@
+verilog xil_defaultlib --include "C:/Xilinx/Vivado/2020.2/data/xilinx_vip/include" --include "../../../../lab3.gen/sources_1/bd/lab3/ipshared/ec67/hdl" --include "../../../../lab3.gen/sources_1/bd/lab3/ipshared/34f8/hdl" \
+"../../../../lab3.gen/sources_1/bd/lab3/ip/lab3_processing_system7_0_0/sim/lab3_processing_system7_0_0.v" \
+"../../../../lab3.gen/sources_1/bd/lab3/ip/lab3_xbar_0/sim/lab3_xbar_0.v" \
+"../../../../lab3.gen/sources_1/bd/lab3/ip/lab3_auto_pc_0/sim/lab3_auto_pc_0.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

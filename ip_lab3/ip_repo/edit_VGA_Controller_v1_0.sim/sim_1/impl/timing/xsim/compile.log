@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/albert.poblador/ip_lab3/ip_repo/edit_VGA_Controller_v1_0.sim/sim_1/impl/timing/xsim/VGA_Controller_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VGA_Controller
+INFO: [VRFC 10-311] analyzing module VGA_Controller_v1_0
+INFO: [VRFC 10-311] analyzing module VGA_Controller_v1_0_S00_AXI
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/albert.poblador/ip_lab3/ip_repo/VGA_Controller_1.0/src/VGA_Controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'VGA_Controller'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/albert.poblador/Desktop/VGA_Controller_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'VGA_Controller_tb'
