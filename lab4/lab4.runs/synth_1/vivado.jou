@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Nov 23 14:40:58 2021
+# Process ID: 888
+# Current directory: C:/Users/albert.poblador/lab4/lab4.runs/synth_1
+# Command line: vivado.exe -log lab4_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lab4_wrapper.tcl
+# Log file: C:/Users/albert.poblador/lab4/lab4.runs/synth_1/lab4_wrapper.vds
+# Journal file: C:/Users/albert.poblador/lab4/lab4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source lab4_wrapper.tcl -notrace

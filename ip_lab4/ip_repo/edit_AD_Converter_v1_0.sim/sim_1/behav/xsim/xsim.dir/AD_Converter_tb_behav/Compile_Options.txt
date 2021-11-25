@@ -1,0 +1,1 @@
+-wto "f3fc6404c3b243e8acc988923aab5496" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "AD_Converter_tb_behav" "xil_defaultlib.AD_Converter_tb" -log "elaborate.log" 
